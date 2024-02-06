@@ -1,1 +1,1 @@
-# PowerBI_dashboard_project1
+# PowerBI_Sales_dashboard_project
